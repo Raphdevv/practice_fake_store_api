@@ -3,4 +3,4 @@
 In this flutter project, I practice using restFul API with Fake Store API
 
 ## Application
-![](https://gifyu.com/image/Shp0Y)
+![](https://github.com/Raphdevv/practice_fake_store_api/blob/main/previewapp.gif)
